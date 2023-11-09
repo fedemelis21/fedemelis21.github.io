@@ -310,6 +310,4 @@ Evaluate out-of-distribution effectiveness.
   python -m experiments.robustness.ood_experiment.py --bert_model roberta-base --approach supcon --output_dir <OUTPUT_DIR>
   python -m experiments.robustness.load_ood_results.py
 ```
-## License
-[MIT License](LICENSE)
 
