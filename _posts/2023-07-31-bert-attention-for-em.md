@@ -2,8 +2,7 @@
 title: Analyzing How BERT Performs Entity Matching
 date: 2023-07-31 00:00:00 +0100
 categories: [Test, Unimore]
-tags: [popipopi]
-pin: true
+tags: [progetto]
 ---
 
 # Analyzing How BERT Performs Entity Matching
