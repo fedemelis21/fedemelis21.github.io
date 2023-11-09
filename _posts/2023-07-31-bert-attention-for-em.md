@@ -312,5 +312,4 @@ Evaluate out-of-distribution effectiveness.
   python -m experiments.robustness.load_ood_results.py
 ```
 
-## License
-[MIT License](LICENSE)
+
