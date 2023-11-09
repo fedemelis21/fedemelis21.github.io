@@ -1,9 +1,8 @@
 ---
 title: Analyzing How BERT Performs Entity Matching
-author: Softlab
 date: 2022-08-08 14:10:00 +100
-categories: [test, unimore]
-tags: [tagtest]
+categories: [Test, Unimore]
+tags: [popipopi]
 ---
 
 # Analyzing How BERT Performs Entity Matching
