@@ -2,7 +2,7 @@
 title: Analyzing How BERT Performs Entity Matching
 date: 15-11-2023 09:53:04 +0100
 category: [Natural Language Processing]
-subcategories: [E, n, t, i, t, y,  , M, a, t, c, h, i, n, g]
+subcategories: [E,n,t,i,t,y, ,M,a,t,c,h,i,n,g]
 tags: [bert, entity matching, transformer, text classification, machine learning]
 ---
 
