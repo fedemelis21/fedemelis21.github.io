@@ -12,7 +12,7 @@ This project provides an approach for applying automated machine learning techni
 
 The proposed approach leverages an **EM Adapter**, to be pipelined with standard AutoML systems, that preprocesses the EM datasets to make them usable by automated approaches and provides greater effectiveness in solving EM tasks. This component relies on the most recent transformer architectures, such as BERT and variants (DistilBERT, ALBERT, RoBERTa and XLNet), and a representation of the entire pipeline is provided in the following figure.
 
-![EMAdapterArchitecture](/images/EMAdapterArchitecture.jpg)
+![EMAdapterArchitecture](images/EMAdapterArchitecture.jpg)
 
 For a detailed description of the work please read [our paper](https://openproceedings.org/2021/conf/edbt/p260.pdf). Please cite the paper if you use the code from this repository in your work.
 
