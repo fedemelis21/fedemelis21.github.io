@@ -73,9 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F42%2FLogo-unimore.png&tbnid=0G9yUSh2a_LguM&vet=12ahUKEwjkzKSsiMiCAxV8sicCHVNNC9sQMygBegQIARBS..i&imgrefurl=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FFile%3ALogo-unimore.png&docid=HepV7Lmw4OoQXM&w=274&h=310&q=logo%20unimore&ved=2ahUKEwjkzKSsiMiCAxV8sicCHVNNC9sQMygBegQIARBS
-
-# boolean type, the global switch for TOC in posts.
+avatar: https://upload.wikimedia.org/wikipedia/commons/4/42/Logo-unimore.png
 toc: true
 
 comments:
