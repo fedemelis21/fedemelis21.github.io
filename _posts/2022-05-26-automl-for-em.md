@@ -2,8 +2,8 @@
 title: AutoML for Entity Matching
 date: 26-05-2022 20:28:59 +0100
 category: [Machine Learning]
-subcategories: [Entity Matching, Automated Machine Learning]
-tags: [automl, entity matching, machine learning, deep learning, transformer]
+subcategories: [Entity Matching]
+tags: [automl, machine learning, deep learning, em adapter, transformer architectures]
 ---
 
 # AutoML for Entity Matching
