@@ -2,8 +2,8 @@
 title: Landmark Web App
 date: 10-01-2022 12:29:11 +0100
 category: [XAI Entity Matching Project]
-subcategories: [Frontend, Backend]
-tags: [landmark, explanation tool, entity matching, mit license, node js]
+subcategories: [frontend,backend]
+tags: [landmark, explanation tool, entity matching, mit license]
 ---
 
 # Landmark Web App
