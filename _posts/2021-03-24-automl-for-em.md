@@ -2,8 +2,8 @@
 title: AutoML for Entity Matching
 date: 24-03-2021 16:51:56 +0100
 category: [Machine Learning]
-subcategories: [E, n, t, i, t, y,  , M, a, t, c, h, i, n, g]
-tags: [automl, machine learning, deep learning, em adapter, bert]
+subcategories: [Automated Machine Learning, Entity Matching]
+tags: [automl, entity matching, machine learning, deep learning, em adapter]
 ---
 
 # AutoML for Entity Matching
