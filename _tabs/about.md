@@ -18,4 +18,4 @@ Research in SoftLab covers topics of Software Engineering, Data Analysis, Data M
 
 SoftLab is available for participating in research and training projects with other Universities and Research Centers and with Companies.
 
-​SoftLab belongs to the [**Artificial Intelligence Research and Innovation Center AIRI**](https://www.airi.unimore.it) of the Modena Technopole.
+​SoftLab belongs to the [**Artificial Intelligence Research and Innovation Center AIRI**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) of the Modena Technopole.
