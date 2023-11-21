@@ -15,3 +15,7 @@ Research in SoftLab covers topics of Software Engineering, Data Analysis, Data M
 - Workflow management and Process Mining.
 - Application of NLP technologies to textual data (word embeddings created via Deep Learning and  transformers)
 - Application of Data Mining, Machine Learning and Artificial Intelligence to relational databases.
+
+SoftLab is available for participating in research and training projects with other Universities and Research Centers and with Companies.
+
+​SoftLab belongs to the [Artificial Intelligence Research and Innovation Center AIRI](https://www.airi.unimore.it/) of the Modena Technopole.
