@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# The SoftLab Research Group
+# The SoftLab Research GG
 
 SoftLab is a research laboratory belonging to the Department of Engineering “Enzo Ferrari”, University of Modena and Reggio Emilia, Italy.
 
