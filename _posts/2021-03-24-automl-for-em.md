@@ -2,7 +2,7 @@
 title: AutoML for Entity Matching
 date: 24-03-2021 16:51:56 +0100
 category: [Machine Learning]
-subcategories: [Automated Machine Learning, Entity Matching]
+subcategories: [Entity Matching, Automated Machine Learning]
 tags: [automl, entity matching, machine learning, deep learning, em adapter]
 ---
 
