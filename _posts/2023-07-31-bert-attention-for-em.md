@@ -1,9 +1,9 @@
 ---
 title: Analyzing How BERT Performs Entity Matching
 date: 31-07-2023 12:38:24 +0100
-category: [NLP]
-subcategories: [Entity Matching, Transformer Architectures]
-tags: [bert, entity matching, contextualized embeddings]
+category: [Entity Matching]
+subcategories: [Transformer Architectures, Contextualized Embeddings]
+tags: [bert, entity descriptions, em model, fine tuning]
 ---
 
 # Analyzing How BERT Performs Entity Matching
